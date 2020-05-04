@@ -1,0 +1,10 @@
+.env
+mongo.js
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
