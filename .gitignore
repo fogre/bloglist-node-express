@@ -1,6 +1,6 @@
 .env
 mongo.js
-
+/.idea
 # dependencies
 /node_modules
 /.pnp
